@@ -1,0 +1,20 @@
+{
+    "name": "livecoding",
+    "version": "1.0.0",
+    "description": "coding Landing template",
+    "main": "index.js",
+    "scripts": {
+        "style": "sass sass/style.scss sass/style.css",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NatalyCoding/livecoding.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/NatalyCoding/livecoding/issues"
+    },
+    "homepage": "https://github.com/NatalyCoding/livecoding#readme"
+}
